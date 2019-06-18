@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * @author 小天哥哥
  * @mailto 361807535@qq.com
- * @Description TODO
+ * @Description 请求分发器
  * @createDate 2019年6月18日 下午1:58:31
  */
 @WebServlet(value = "/*")
